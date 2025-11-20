@@ -1,0 +1,3 @@
+[submodule "computer_vision/Udemy-ComputerVision"]
+	path = computer_vision/Udemy-ComputerVision
+	url = https://github.com/PyML-studio/Udemy-ComputerVision.git
